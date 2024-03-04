@@ -1,18 +1,20 @@
-## Getting Started
+# 📚 Aula 1 - 04/03/2024
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📝 O que é estrutura de dados? 
+São formas de organizar e armazenar dados para acesso e uso eficientes. Eles podem ser lineares, não lineares, homogêneas e heterogêneas.
 
-## Folder Structure
+## 🎯 Qual sua importância?
+- Eficiência de processamento e organização de dados
+- Desenvolvimento de software eficiente
+- Facilita o manuseio dos dados
+- Otimiza a manutenção 
 
-The workspace contains two folders by default, where:
+## 🏗️ Estruturas
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Array (Estático e dinâmico)
+É uma estrutura de dados que armazena uma coleção de elementos do mesmo tipo. Um array estático tem tamanho fixo. O array dinâmico tem tamanho que pode mudar durante a execução do programa.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+#### Array Estático - Exemplo de código
+```java
+int[] arrayEstatico = new int[5]; // Cria um array de inteiros com tamanho 5
+arrayEstatico[0] = 1; //Atribui o valor 1 ao primeiro elemento do array
