@@ -1,3 +1,3 @@
 # Algoritmos-e-Estrutura-de-Dados
-#Finalidade
+# Finalidade
 Algoritmos:
