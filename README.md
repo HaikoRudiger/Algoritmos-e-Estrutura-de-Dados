@@ -4,7 +4,7 @@ Este repositório é dedicado ao estudo e implementação de algoritmos e estrut
 
 ## Algoritmos 💡
 
-Algoritmos consistem em um conjunto de operações estruturadas e ordenadas com a finalidade de executar uma tarefa ou operação específica. Exemplos comuns de operações incluem inserção, exclusão, atualização e ordenação.
+Algoritmos consistem em um conjunto de operações estruturadas e ordenadas com a finalidade de executar uma tarefa ou operação específica. 
 
 ### Exemplos de Operações:
 
@@ -15,7 +15,7 @@ Algoritmos consistem em um conjunto de operações estruturadas e ordenadas com 
 
 ## Estrutura de Dados 🗄️
 
-A estrutura de dados refere-se à forma como os dados são armazenados e organizados em um sistema. A escolha adequada da estrutura de dados é crucial, pois potencializa o funcionamento do algoritmo, facilita sua implementação e otimiza o desempenho.
+A estrutura de dados refere-se à forma como os dados são armazenados e organizados em um sistema.
 
 ### Função da Estrutura de Dados:
 
